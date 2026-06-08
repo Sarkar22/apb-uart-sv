@@ -1,0 +1,8 @@
+sim/sim.vvp
+sim/sim.log
+*.vcd
+*.vdb
+*.pb
+*.wdb
+*.jou
+xsim.dir/
